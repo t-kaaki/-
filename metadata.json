@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Softball Lineup Manager",
+  "description": "A web application to visualize and manage softball team lineups, inspired by traditional paper scoresheets. Easily view player positions on the field, starting lineups, and the team roster for each game configuration.",
+  "requestFramePermissions": []
+}
